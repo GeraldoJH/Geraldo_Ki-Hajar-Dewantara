@@ -1,4 +1,4 @@
-# KiHajarDewantara ( Kode Project / tugas )
+# KiHajarDewantara ( Tugas2 )
  Memperkenalkan Ki Hajar Dewantara 
 
 Screenshot
