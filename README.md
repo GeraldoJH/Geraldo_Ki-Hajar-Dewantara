@@ -1,13 +1,13 @@
-# {{KiHajarDewantara ({{ Kode Project / tugas }})
-{{ Memperkenalkan Ki Hajar Dewantara }}
+# KiHajarDewantara ( Kode Project / tugas )
+ Memperkenalkan Ki Hajar Dewantara 
 
 Screenshot
-{{ - }}
+
 
 Built With
-{{ image,icon,text }}
+image,icon,text 
 Created By
-{{ Nama : Geraldo Julius Halim }}
+ Nama : Geraldo Julius Halim 
 
 Mata Kuliah
 COE-5109 Pemprograman Mobile.
