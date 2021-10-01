@@ -16,6 +16,8 @@ Dosen
 Ary Budi Warsito, M.Kom
 
 Matana University!
+![MTN](https://user-images.githubusercontent.com/71378171/135557484-686bba15-dd60-4a91-b8e7-a41ef348acb6.png)
+
 
 
 - Visi Menjadi perguruan tinggi terpercaya, berwawasan global, yang berperan dalam meningkatkan kualitas ilmu pengetahuan, yang merupakan Karunia Tuhan, untuk kesejahteraan umat manusia. - Misi Menyiapkan dan mendidik generasi penerus menjadi sarjana yang penuh kasih dan ahli di bidangnya serta berjiwa entrepreneur, yang mampu berkiprah dalam dunia bisnis global.
