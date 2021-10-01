@@ -1,10 +1,15 @@
 # Ki Hajar Dewantara - TUGAS2
- {{ Diskripsi Project }}
+ Memperkenalkan siapa itu Ki Hajar Dewantara
 ### Screenshot
-{{ Letakan gambar aplikasi disini }}
+
+
+![ss111](https://user-images.githubusercontent.com/71378171/135565570-e638b03e-bfb6-40ba-92ae-1b3931df3bd5.PNG)
+
+
+![ss222](https://user-images.githubusercontent.com/71378171/135565580-409cbfca-fbc1-407e-9021-bf601417c404.PNG)
 
 ### Built With
-- {{ Komponen apa saja yang dikerjakan untuk membuat aplikasi }}
+- Flutter
 
 ### Created By
 - Geraldo Julius Halim
