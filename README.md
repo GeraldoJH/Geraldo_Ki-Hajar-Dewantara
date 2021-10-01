@@ -4,15 +4,11 @@
 
 
 
-
-![ss111](https://user-images.githubusercontent.com/71378171/135565570-e638b03e-bfb6-40ba-92ae-1b3931df3bd5.PNG)
-
+<img src="ss111.png?raw=true" />
 
 
 
-
-
-![ss222](https://user-images.githubusercontent.com/71378171/135565580-409cbfca-fbc1-407e-9021-bf601417c404.PNG)
+<img src="ss222.png?raw=true" />
 
 
 
